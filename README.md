@@ -12,7 +12,7 @@ This is a full-stack CRUD application built with React.js for the frontend and S
 
 ### Installation
 
-#### 1. Clone the Repository
+#### A. Configuration
 
 ```bash
 git clone https://github.com/your-username/ReactJS-Spring-Boot-CRUD-Full-Stack-App.git
